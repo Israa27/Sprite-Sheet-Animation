@@ -24,5 +24,5 @@ This project provides a simple web page where users can interact with buttons to
 [Screenshots](https://github.com/Israa27/Sprite-Sheet-Animation/assets/83101136/4263830d-1a2a-4aa8-a9a4-9c15058295e9)
 
 ## Demo
-Check out the live demo here[]
+Check out the live demo [here](https://israa27.github.io/Sprite-Sheet-Animation/)
 

@@ -1,4 +1,4 @@
-# Sprite-Sheet-Animation-Canvas-HTML5
+# Sprite-Sheet-Animation-HTML5-Canvas
 This project demonstrates a simple animation of a player character's movements using HTML5 Canvas and buttons to switch between different animation sequences.
 
 ## Table of Contents
@@ -21,7 +21,7 @@ This project provides a simple web page where users can interact with buttons to
 - Interactive buttons to switch between movement sequences.
   
 ## Screenshots
-(https://github.com/Israa27/Sprite-Sheet-Animation/assets/83101136/0ef0d163-4bf1-41c4-a866-6a5adadc710b)
+[Screenshots](https://github.com/Israa27/Sprite-Sheet-Animation/assets/83101136/4263830d-1a2a-4aa8-a9a4-9c15058295e9)
 
 ## Demo
 Check out the live demo here[]

@@ -21,7 +21,7 @@ This project provides a simple web page where users can interact with buttons to
 - Interactive buttons to switch between movement sequences.
   
 ## Screenshots
-[recording-2023-12-27-02-11-48.webm](https://github.com/Israa27/Sprite-Sheet-Animation/assets/83101136/0ef0d163-4bf1-41c4-a866-6a5adadc710b)
+(https://github.com/Israa27/Sprite-Sheet-Animation/assets/83101136/0ef0d163-4bf1-41c4-a866-6a5adadc710b)
 
 ## Demo
 Check out the live demo here[]
